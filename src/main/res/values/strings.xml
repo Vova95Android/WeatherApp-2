@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PatternTest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_fragment_first">Hello fragment first</string>
+    <string name="hello_fragment_second">Hello fragment second</string>
+    <string name="hello_fragment_third">Hello fragment third</string>
+    <string name="next_button">Next</string>
+    <string name="back_button">Back</string>
+    <string name="api_key">AIzaSyAgD0og11jZv6HFrXVEzCC1q4dASeCbM4o</string>
+    <string name="api_wheather_id">2df8ef9f1f84d296670453486e84b504</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="temp_icon">°</string>
+    <string name="baseURL">"https://api.openweathermap.org/data/2.5/"</string>
+    <string-array name="day_week">
+        <item>"ВС"</item>
+        <item>"ПН"</item>
+        <item>"ВТ"</item>
+        <item>"СР"</item>
+        <item>"ЧТ"</item>
+        <item>"ПТ"</item>
+        <item>"СБ"</item>
+    </string-array>
+</resources>
